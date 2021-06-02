@@ -52,6 +52,9 @@ Data and scripts for processing lidar point clouds with instrument data from Ses
 - matlab function to automatically estimate streak velocities from a point cloud.
 - point cloud is filtered within 5 meters of scanner and has a scalar field of linearity calculated and saved from CloudCompare
 
+# SpectralonStats.m
+- Read CSV of statistics generated from 'ExtractTarget_withStatistics.py' to a table
+
 # LineScanProcessing.m
 - Use directory of point cloud data (CSV) and instrument data (CSV) generated from 'SnowPoint_Processing.py' to analyze line scans
 - Uses 'ParsivelSpectrums.m'
