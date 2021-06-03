@@ -1,21 +1,21 @@
 # Snowfall-Point-Processing
 Data and scripts for processing lidar point clouds with instrument data from Sesame utilized during my thesis research at the University of Houston.
 
-#Data
+# Data
 
-# Sesame2020.csv
+Sesame2020.csv
 - Meteorological instrument data collected at Sesame
 
-# 20200526-ParsivelData.csv
+20200526-ParsivelData.csv
 - Parsivel disdrometer data collected from Sesame
 
-# Plookup.mat
+Plookup.mat
 - Date of disdrometer data
 
-# Pdata.mat
+Pdata.mat
 - Date and data. Column 7 contains a cell with a 32 x 32 double of all size and speed estimates
 
-# InstrumentData.csv
+InstrumentData.csv
 - Disdrometer and Meteorological instrument data records from Sesame
 
 
