@@ -18,9 +18,7 @@ Plookup.mat
 Pdata.mat
 - Date and data. Column 7 contains a cell with a 32 x 32 double of all size and speed estimates
 
-# Scripts
-
-# Python
+# Python Scripts
 
 SnowPoint_Processing.py
 - Batch transform of point clouds
@@ -34,7 +32,6 @@ InstrumentData.py
 
 ExtractTarget_withStatistics.py
 - Extract target coordinates from a point cloud along with intensity statistics
-
 
 
 # Matlab Scripts
