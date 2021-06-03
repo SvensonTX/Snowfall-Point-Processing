@@ -1,7 +1,7 @@
 # Snowfall-Point-Processing
 Data and scripts for processing lidar point clouds with instrument data from Sesame utilized during my thesis research at the University of Houston.
 
-# # # Data
+#Data
 
 # Sesame2020.csv
 - Meteorological instrument data collected at Sesame
