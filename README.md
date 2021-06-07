@@ -41,11 +41,11 @@ ParsivelSpectrums.m
 - Uses Plookup.mat and Pdata.mat 
 
 LoadSesameData.m
-- matlab generated function to read CSV of instrument data generated from InstrumentData.py
+- Matlab generated function to read CSV of instrument data generated from InstrumentData.py
 
 StreakVelocities.m
-- matlab function to automatically estimate streak velocities from a point cloud.
-- point cloud is filtered within 5 meters of scanner and has a scalar field of linearity calculated and saved from CloudCompare
+- Matlab function to automatically estimate streak velocities from a point cloud.
+- Input should be a point cloud filtered within 5 meters of scanner and have a scalar field of linearity calculated and saved from CloudCompare
 
 SpectralonStats.m
 - Read CSV of statistics generated from 'ExtractTarget_withStatistics.py' to a table
