@@ -16,7 +16,7 @@ Plookup.mat
 - Date of disdrometer data
 
 Pdata.mat
-- Date and data. Column 7 contains a cell with a 32 x 32 double of all size and speed estimates
+- Date with particle size and speed data from the disdrometer. Column 7 contains a cell with a 32 x 32 double of all size and speed estimates
 
 # Python Scripts
 
